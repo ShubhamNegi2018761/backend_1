@@ -1,0 +1,15 @@
+{
+  "name": "fullstackbackend3",
+  "version": "1.0.0",
+  "description": "a backend for complex app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "shubham negi",
+  "license": "ISC"
+}
